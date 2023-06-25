@@ -15,8 +15,6 @@ const Home = () => {
 			<Navbar/>
 			<Jumbotron/>
 			<Card/>
-			<Card/>
-			<Card/>
 			<Footer/>
 		</>
 	
